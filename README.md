@@ -6,9 +6,8 @@ Fullstack Developer
 
 I'm a Fullstack developer, by know enjoying Python for back-end and React.js for front! I really love machine learning and data science too.
 
-* 🌍  I'm based in João Pessoa
 * ✉️  You can contact me at [danielvictorcarneiro21@gmail.com](mailto:danielvictorcarneiro21@gmail.com)
-* 🧠  I'm learning Python and React.js
+* 🧠  I'm learning Machine Learning and React.js
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I really love music! My favourite band is The Beatles, and i play guitar too!
 
