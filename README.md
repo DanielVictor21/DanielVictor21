@@ -6,7 +6,7 @@ Fullstack Developer
 
 I'm a Fullstack developer, by know enjoying Python for back-end and React.js for front! I really love machine learning and data science too. Currently working as Software Engineer @TRIL LAB
 
-* 🌍  I'm from in João Pessoa
+* 🌍  I'm from João Pessoa
 * ✉️  You can contact me at [danielvictorcarneiro21@gmail.com](mailto:danielvictorcarneiro21@gmail.com)
 * 🧠  I'm learning Machine Learning and React.js
 * 🤝  I'm open to collaborating on Projects
