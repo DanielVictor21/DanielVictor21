@@ -8,7 +8,7 @@ A developer from Brazil who's working im some cool stuff
 
 * 🌍  I'm from João Pessoa, PB
 * ✉️  You can contact me at [danielvictorcarneiro21@gmail.com](mailto:danielvictorcarneiro21@gmail.com)
-* 🚀  Currently working on [Moises.ai](http://https://moises.ai)
+* 🚀  Currently working on [moises.ai](https://moises.ai)
 * 🧠  Learning Machine Learning and Devops
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I love music, my favourite band is The Beatles
