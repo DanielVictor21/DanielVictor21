@@ -4,7 +4,7 @@ I'm Daniel Victor
 Software Engineer
 -----------------
 
-A developer from Brazil who's working im some cool stuff
+A developer from Brazil doing Computer Science at UFPB
 
 * 🌍  I'm from João Pessoa, PB
 * ✉️  You can contact me at [danielvictorcarneiro21@gmail.com](mailto:danielvictorcarneiro21@gmail.com)
