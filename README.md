@@ -8,10 +8,7 @@ A developer from Brazil doing Computer Science at UFPB
 
 * 🌍  I'm from João Pessoa, PB
 * ✉️  You can contact me at [danielvictorcarneiro21@gmail.com](mailto:danielvictorcarneiro21@gmail.com)
-* 🚀  Currently working on [moises.ai](https://moises.ai)
-* 🧠  Learning Machine Learning and Devops
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I love music, my favourite band is The Beatles
+* 🚀  Currently working at [moises.ai](https://moises.ai)
 
 ### Skills
 
@@ -24,7 +21,3 @@ A developer from Brazil doing Computer Science at UFPB
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DanielVictor21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/danielvictor.b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/daniel-victorcb/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@danielvictorcarneiro21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/DanielVictor21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVictor21&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
