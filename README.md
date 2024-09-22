@@ -4,11 +4,11 @@ I'm Daniel Victor
 Software Engineer
 -----------------
 
-A developer from Brazil doing Computer Science at UFPB
+Welcome!
 
 * 🌍  I'm from João Pessoa, PB
 * ✉️  You can contact me at [danielvictorcarneiro21@gmail.com](mailto:danielvictorcarneiro21@gmail.com)
-* 🚀  Currently working at [moises.ai](https://moises.ai)
+* 🚀  Currently working at [Music.AI](https://music.ai)/[Moises](https://moises.ai/pt/)
 
 ### Skills
 
